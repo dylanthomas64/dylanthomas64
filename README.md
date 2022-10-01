@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dylanthomas64
-- 👀 I’m interested in games and nature
+- 👀 I like games
 - 🌱 I’m currently learning Rust
 
 <!---
