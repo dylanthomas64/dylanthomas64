@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dylanthomas64
 - 👀 I like games
-- 🌱 I’m currently learning Rust
+- 🌱 I’m currently learning C++
 
 <!---
 - 💞️ I’m looking to collaborate on ...
