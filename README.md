@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dylanthomas64
-- 👀 I like art
-- 🌱 I’m currently learning C++ and OpenGl
+- 👀 I like music and art
+- 🌱 I’m currently learning Rust, C++ and OpenGl
 
 <!---
 - 💞️ I’m looking to collaborate on ...
